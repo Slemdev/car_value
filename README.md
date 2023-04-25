@@ -4,7 +4,7 @@ Estimation du prix d'une voiture
 Contexte du projet
 En tant que data scientist,
 
-- Analyse et nettoyage des données
++ Analyse et nettoyage des données
 - Modélisation du problème
 - Optimisation des paramètres
 - Réalisation de l'application pour rendre le modèle exploitable par l'utilisateur final
