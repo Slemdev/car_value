@@ -1,3 +1,7 @@
+#local_files
+notes.txt
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
