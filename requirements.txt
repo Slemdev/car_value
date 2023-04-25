@@ -5,3 +5,5 @@ sklearn.linear_model
 sklearn.model_selection
 matplotlib.pyplot
 sklearn.preprocessing
+ydata_profiling #import 
+ProfileReport
